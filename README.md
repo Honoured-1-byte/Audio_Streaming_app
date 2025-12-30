@@ -34,9 +34,9 @@ A highly responsive and interactive music streaming web application inspired by 
 ```
 /
 ├── assets/              # Icons and Images used in the UI
-├── final_index.html     # Main entry point
-├── final_style.css      # All styling logic
-├── final_app.js         # Core application logic
+├── index.html     # Main entry point
+├── style.css      # All styling logic
+├── app.js         # Core application logic
 └── README.md            # Project documentation
 ```
 
@@ -47,7 +47,7 @@ A highly responsive and interactive music streaming web application inspired by 
     git clone https://github.com/Honoured-1-byte/Audio_Streaming_app.git
     ```
 2.  Navigate to the directory.
-3.  Open `final_index.html` in your browser.
+3.  Open `index.html` in your browser.
 
 ## 🔮 Future Improvements
 
